@@ -1,0 +1,11 @@
+body {
+    font-family: Kumbh Sans;
+    font-weight: bold;
+    background-color: hsl(185, 75%, 39%);
+}
+.retangulo{
+    background-color: aliceblue;
+    width: 700px;
+    height: 400px;
+
+}
